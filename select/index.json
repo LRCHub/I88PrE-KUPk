@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "MILABO (Live)",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2025-12-14T10:09:49.512957Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MILABO - Live",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_MILABO_-_Live_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
